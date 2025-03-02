@@ -3,4 +3,4 @@
 	url = https://github.com/Capstonebara/webapp_frontend.git
 [submodule "webapp/backend"]
 	path = webapp/backend
-	url = https://github.com/Capstonebara/webapp_frontend.git
+	url = https://github.com/Capstonebara/webapp_backend.git
