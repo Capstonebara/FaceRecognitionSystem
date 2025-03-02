@@ -1,0 +1,6 @@
+[submodule "webapp/frontend"]
+	path = webapp/frontend
+	url = git@github.com:Capstonebara/webapp_frontend.git
+[submodule "webapp/backend"]
+	path = webapp/backend
+	url = git@github.com:Capstonebara/webapp_backend.git
