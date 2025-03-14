@@ -5,7 +5,7 @@ This repository contains the code for the Face Recognition System project.
 To clone this repository along with its submodules, use the following command:
 
 ```bash
-git clone --recursive https://github.com/Capstonebara/face-recognition-system.git
+git clone --recursive https://github.com/Capstonebara/FaceRecogntitionSystem.git
 ```
 
 This command will clone the main repository and all its submodules, ensuring you have all the necessary code to run the project.
