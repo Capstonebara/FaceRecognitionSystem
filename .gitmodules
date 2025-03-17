@@ -1,21 +1,10 @@
-[submodule "webapp/frontend"]
-	path = webapp/frontend
-	url = https://github.com/Capstonebara/webapp_frontend.git
-[submodule "webapp/backend"]
-	path = webapp/backend
-	url = https://github.com/Capstonebara/webapp_backend.git
+
 [submodule "jetson/frontend"]
 	path = jetson/frontend
 	url = https://github.com/Capstonebara/jetson_frontend.git
 [submodule "jetson/backend"]
 	path = jetson/backend
 	url = https://github.com/Capstonebara/jetson_backend.git
-[submodule "cms/frontend"]
-	path = cms/frontend
-	url = https://github.com/Capstonebara/cms_frontend.git
-[submodule "cms/backend"]
-	path = cms/backend
-	url = https://github.com/Capstonebara/cms_backend.git
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Capstonebara/backend.git
