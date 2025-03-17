@@ -16,3 +16,12 @@
 [submodule "cms/backend"]
 	path = cms/backend
 	url = https://github.com/Capstonebara/cms_backend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Capstonebara/backend.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/Capstonebara/webapp_frontend.git
+[submodule "cms"]
+	path = cms
+	url = https://github.com/Capstonebara/cms_frontend.git
