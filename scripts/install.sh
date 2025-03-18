@@ -31,14 +31,14 @@ select_torch_version
 
 # Step 2: Install backend requirements
 echo "Installing backend requirements..."
-pip install -r backend/requirements.txt
+pip install -r ../backend/requirements.txt
 
 # Step 3: Install webapp dependencies
 echo "Installing webapp dependencies..."
-yarn --cwd webapp install
+yarn --cwd ../webapp install
 
 # Step 4: Install cms dependencies
 echo "Installing cms dependencies..."
-yarn --cwd cms install
+yarn --cwd ../cms install
 
 echo "Installation completed!"
