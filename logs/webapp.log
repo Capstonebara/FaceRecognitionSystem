@@ -1,0 +1,8 @@
+yarn run v1.22.22
+$ PORT=3000 next start
+   ▲ Next.js 15.2.1
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.102:3000
+
+ ✓ Starting...
+ ✓ Ready in 448ms
