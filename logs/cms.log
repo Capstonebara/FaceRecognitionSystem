@@ -1,8 +1,0 @@
-yarn run v1.22.22
-$ PORT=4000 next start
-   ▲ Next.js 15.2.1
-   - Local:        http://localhost:4000
-   - Network:      http://192.168.0.102:4000
-
- ✓ Starting...
- ✓ Ready in 419ms
